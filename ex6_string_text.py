@@ -12,6 +12,8 @@ print(f'i said: {x}')
 print(f"I also said:'{y}'")
 
 hilarious=False
+joke_evaluation="Isn't that joke so funny?!{}"
+
 print(joke_evaluation.format(hilarious))
 
 w="This is the left side of..."
