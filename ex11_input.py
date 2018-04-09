@@ -7,3 +7,11 @@ weight=input()
 
 
 print ("So, you're %r old, %r tall, and %r heavy."%(age,height,weight))
+
+#taking input in different way.
+
+age=input("how old are you?")
+height=input("how tall are you?")
+weight=input("how much do you weight")
+
+print("So, you're %r old, %r tall, %r heavy."%(age,height,weight))
