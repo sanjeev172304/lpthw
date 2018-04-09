@@ -5,10 +5,10 @@ print(formatter.format("one","two","three","four"))
 print(formatter.format(True,False,False,True))
 print(formatter.format(formatter, formatter,formatter,formatter))
 print(formatter.format(
-	"Try Your"
-	"Own text Here"
-	"maybe a poem"
-	"Or a song about fear"
+	"Try Your",
+	"Own text Here",
+	"maybe a poem",
+	"Or a song about fear",
 
 
 ))
